@@ -6,3 +6,9 @@ h1 {
   color: navy;
   margin-left: 20px;
 }
+
+#omg {
+  padding: 50px;
+  background: pink;
+  width: 100%
+}

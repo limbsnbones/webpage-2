@@ -27,4 +27,7 @@ h1 {
 #dang {
   margin: 10px;
   border: 3px dashed #000;
+  background: rgb(255, 194, 0)
+  color: rgb(0, 0, 67)
+  width: 200px;
 }

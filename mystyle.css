@@ -3,9 +3,9 @@ body {
 }
 
 h1 {
-  color: navy;
+  color: rgb(255, 194, 0);
   margin-left: 20px;
-  text-shadow: 2px 2px 5px blue;
+  text-shadow: 2px 2px 5px red;
 }
 
 #omg {
